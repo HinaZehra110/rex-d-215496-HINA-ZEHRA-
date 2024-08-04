@@ -1,0 +1,100 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: 'poppins', sans-serif;
+}
+
+/* /* .article{
+    margin-top: 205px;
+    margin-left: 25px;
+    display: flex;
+    justify-content:left;
+    align-items: flex-start ;
+    min-height: 100vh ;
+}
+
+.homesidepic{
+    max-width: 820ox;
+heading{
+    font-size: 52px;
+}    float: right; */
+
+.heading{
+    font-size: 48px;
+}
+
+.heading:hover{
+    text-decoration: underline;
+    cursor: pointer;
+}
+
+.pera{
+    font-size: 20px;
+}
+
+.btn-line{
+    border: none;
+    background-color: white;
+    font-size: 20px;
+    font-weight: bold;
+    margin-left: 475px;
+}
+
+
+
+/* .card-img-overlay{
+    margin-top: 368px;
+} */
+
+.self-pera{
+ margin-right: 2px;
+}
+
+.card-img-top{
+    width: 60%;
+    border-radius: 50%;
+    margin: 0 auto;
+    box-shadow: 0 0 10px ;
+}
+
+#navbarNav ul li {
+    font-weight: bold;
+    font-size: 16px;
+    font-style: block;
+    
+}
+
+
+.td-1:hover{
+    text-decoration: underline;
+    color: black ;
+    font-weight: bold;
+    cursor: pointer;
+
+}
+
+.td-2:hover{
+    text-decoration: underline;
+    color: black ;
+    font-weight: bold;
+
+}
+
+.td-3:hover{
+    text-decoration: underline;
+    color: black ;
+    font-weight: bold;
+
+}
+
+
+.contact{
+    border-radius: 15px 45px 315px 220px;
+}
+
+
+.fa-phone-volume{
+font-size: 70px;
+}
+
